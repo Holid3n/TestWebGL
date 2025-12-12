@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Resume-0.1";
 const contentToCache = [
-    "Build/1.loader.js",
-    "Build/1.framework.js.gz",
-    "Build/1.data.gz",
-    "Build/1.wasm.gz",
+    "Build/2.loader.js",
+    "Build/2.framework.js",
+    "Build/2.data",
+    "Build/2.wasm",
     "TemplateData/style.css"
 
 ];
